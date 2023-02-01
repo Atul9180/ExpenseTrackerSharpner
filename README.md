@@ -29,6 +29,7 @@ forgot password:
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/110973046/215971693-97e5d62f-0bea-4021-be9d-3809b0c108e9.png">
 
 home (non-Premium Member):
+
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/110973046/215972069-052c9122-751c-4f48-bce6-a4279ae6fff1.png">
 
 home (Premium Member):
